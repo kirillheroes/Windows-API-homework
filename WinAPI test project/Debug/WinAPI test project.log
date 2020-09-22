@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\пользователь\source\repos\winapi test project\winapi test project\source.cpp(267): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пользователь\source\repos\winapi test project\winapi test project\source.cpp(369): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пользователь\source\repos\winapi test project\winapi test project\source.cpp(525): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  WinAPI test project.vcxproj -> C:\Users\пользователь\source\repos\WinAPI test project\Debug\WinAPI test project.exe
